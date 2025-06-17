@@ -1,1 +1,5 @@
 1.0.1
+
+- Added support for separate potion items for each individual effect.
+- Added synced drinking progress bar for better visual consistency.
+- Bug fixes
